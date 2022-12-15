@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/luize/OneDrive/Documentos/Projetos/simulation/qsim
+vcontador
+Z1 !s110 1637955033
+!i10b 1
+!s100 T>P;boKzPL71IIlR<6K>=0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=GiQ]MVAXMcjffC?d8R=m1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1637955028
+Z5 8Cont.vo
+Z6 FCont.vo
+!i122 90
+L0 32 1444
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1637955032.000000
+Z9 !s107 Cont.vo|
+Z10 !s90 -work|work|Cont.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vcontador_vlg_vec_tst
+R1
+!i10b 1
+!s100 An<1HN8D6hB1137_<T:cK0
+R2
+I_C`UCeb@m[PQOm9[8IGbT1
+R3
+R0
+w1637955024
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 91
+L0 30 47
+R7
+r1
+!s85 0
+31
+!s108 1637955033.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R11
+R12
+vhard_block
+R1
+!i10b 1
+!s100 4QeQ_F6o8PgR[db`=6@[00
+R2
+IzVFP0LkzzE7cL_fblkXEM2
+R3
+R0
+R4
+R5
+R6
+!i122 90
+L0 1477 34
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
